@@ -3,8 +3,6 @@
 ### 👋 안녕하세요!
 ### 게임 개발자 지망생 Kosh 입니다.
 
-</div>
-
 <br>
 <br>
 
@@ -18,7 +16,6 @@
   
 ### [Network Programming for Microsoft Windows](https://kosh7.tistory.com/entry/Network-Programming-for-Microsoft-Windows-chapter-0-%EC%86%8C%EA%B0%9C)
 Network Programming for Microsoft Windows 책을 읽고 정리한 내용입니다.
-
 
   
 <br>
@@ -46,3 +43,5 @@ Network Programming for Microsoft Windows 책을 읽고 정리한 내용입니�
 
 ### 📫 Contact
 [![Email Badge](https://img.shields.io/badge/-kosh7707@gmail.com-D14836?style=square&logo=Gmail&logoColor=white)](mailto:kosh7707@gmail.com)
+
+</div>
